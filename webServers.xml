@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="cf0e77e4-c6b5-4a49-a78e-d8c7449611d3" name="Social Influencer API" url="http://social-influencer.test">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
