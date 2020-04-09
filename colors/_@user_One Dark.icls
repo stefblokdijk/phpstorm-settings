@@ -3,7 +3,7 @@
     <property name="created">2020-04-09T12:11:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-04-09T12:39:09</property>
+    <property name="modified">2020-04-09T13:53:51</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -578,7 +578,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="e06c75" />
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
@@ -629,6 +629,12 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+        <option name="BACKGROUND" value="282c34" />
+      </value>
+    </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="DEFAULT_REASSIGNED_PARAMETER">
       <value>
@@ -638,11 +644,7 @@
     <option name="DEFAULT_SEMICOLON">
       <value />
     </option>
-    <option name="DEFAULT_STATIC_FIELD">
-      <value>
-        <option name="FOREGROUND" value="e06c75" />
-      </value>
-    </option>
+    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="61afef" />
