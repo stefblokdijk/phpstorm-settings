@@ -7,8 +7,14 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
+  <action id="Console.TableResult.CompareCells" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
@@ -29,5 +35,6 @@
   <action id="SilentCodeCleanup">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
+  <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
 </keymap>
