@@ -40,11 +40,6 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="28">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="CompareFileWithEditor" is_action="true" action_type="-1" position="27">
       <path value="root" />
       <path value="Project View Popup Menu" />
@@ -55,7 +50,7 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="23">
+    <group seperator="true" action_type="-1" position="25">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
@@ -76,6 +71,11 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ProjectViewPopupMenuRunGroup" is_group="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="18">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
@@ -115,7 +115,17 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RefactoringMenu" is_group="true" action_type="1" position="8">
+    <group value="RevealIn" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RefactoringMenu" is_group="true" action_type="1" position="10">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
