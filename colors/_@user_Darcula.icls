@@ -3,7 +3,7 @@
     <property name="created">2020-04-14T23:01:29</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-15T01:20:51</property>
+    <property name="modified">2020-04-15T01:33:09</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -12,7 +12,7 @@
     <option name="FILESTATUS_DELETED" value="59626f" />
     <option name="FILESTATUS_HIJACKED" value="c679dd" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="53575f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
