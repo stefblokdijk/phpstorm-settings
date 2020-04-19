@@ -3,7 +3,7 @@
     <property name="created">2020-04-09T12:11:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-04-19T15:47:22</property>
+    <property name="modified">2020-04-19T16:06:09</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -26,6 +26,10 @@
     <option name="DOCUMENTATION_COLOR" value="3d424b" />
     <option name="ERROR_HINT" value="781732" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
+    <option name="FILESTATUS_MODIFIED" value="d4af79" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="2f333d" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="2f333d" />
+    <option name="FILESTATUS_modifiedOutside" value="d4af79" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="22252d" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f44747" />
