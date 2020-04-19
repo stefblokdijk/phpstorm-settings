@@ -4,7 +4,7 @@
     <property name="created">2020-04-14T23:19:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-19T16:56:00</property>
+    <property name="modified">2020-04-19T17:30:14</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -987,7 +987,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="e5c17c" />
+        <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
     <option name="HTML_CODE">
@@ -1141,6 +1141,12 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
+    <option name="JS.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="59626f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
@@ -1148,9 +1154,7 @@
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="d19a66" />
-      </value>
+      <value />
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
@@ -1158,19 +1162,10 @@
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="e06c75" />
-      </value>
+      <value />
     </option>
     <option name="JS.LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="d19a66" />
-      </value>
-    </option>
-    <option name="JS.MODULE_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="e06c75" />
-      </value>
+      <value />
     </option>
     <option name="JS.MODULE_NAME">
       <value>
@@ -1182,6 +1177,12 @@
       <value>
         <option name="FOREGROUND" value="d19a66" />
       </value>
+    </option>
+    <option name="JS.PARAMETER">
+      <value />
+    </option>
+    <option name="JS.PARENTHS">
+      <value />
     </option>
     <option name="JS.REGEXP">
       <value>
