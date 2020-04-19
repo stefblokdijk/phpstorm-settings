@@ -6,12 +6,13 @@
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isDecoratedFolders" value="false" />
     <option name="isMaterialDesign" value="false" />
+    <option name="isMaterialTheme" value="false" />
     <option name="isPsiIcons" value="false" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="monochromeIcons" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
     <option name="useMaterialIcons" value="false" />
@@ -19,10 +20,10 @@
     <option name="treeFontSize" value="13" />
     <option name="highlightThickness" value="1" />
     <option name="indicatorThickness" value="1" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="979fad" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="accentColor" value="939bab" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="4fa29c98:1717b91dd23:-8000" />
     <option name="version" value="3.10.0" />
   </component>
