@@ -1,80 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Github.Create.Gist" is_action="true" action_type="-1" position="57">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="HideIgnoredFiles" is_action="true" action_type="-1" position="54">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Ignore.TemplateGroup" is_group="true" action_type="-1" position="53">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Ignore.UnignoreGroup" is_group="true" action_type="-1" position="52">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Ignore.IgnoreGroup" is_group="true" action_type="-1" position="51">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="&lt;anonymous-group-13&gt;" is_group="true" action_type="-1" position="37">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="UML.Group" is_group="true" action_type="-1" position="36">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="XmlGenerateToolsGroup" is_group="true" action_type="-1" position="33">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RemoveBom.Group" is_group="true" action_type="-1" position="32">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ProjectViewPopupMenuSettingsGroup" is_group="true" action_type="-1" position="31">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="30">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ExternalToolsGroup" is_group="true" action_type="-1" position="29">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CompareFileWithEditor" is_action="true" action_type="-1" position="27">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CompareTwoFiles" is_action="true" action_type="-1" position="26">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="25">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="22">
       <path value="root" />
       <path value="Project View Popup Menu" />
@@ -106,31 +31,6 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="16">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="AddToFavorites" is_group="true" action_type="-1" position="15">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="14">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ProjectViewPopupMenuRefactoringGroup" is_group="true" action_type="-1" position="13">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="12">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="InspectCodeActionInPopupMenus" is_group="true" action_type="-1" position="11">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />

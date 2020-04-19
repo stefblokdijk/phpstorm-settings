@@ -4,7 +4,7 @@
     <property name="created">2020-04-14T23:19:55</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-19T15:03:34</property>
+    <property name="modified">2020-04-19T15:55:08</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -35,28 +35,28 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="282c34" />
-    <option name="FILESTATUS_ADDED" value="22863a" />
-    <option name="FILESTATUS_COPIED" value="a7700" />
-    <option name="FILESTATUS_DELETED" value="6a737d" />
-    <option name="FILESTATUS_HIJACKED" value="6a737d" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6a737d" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="32f62" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d73a49" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d73a49" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d73a49" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="32f62" />
-    <option name="FILESTATUS_MERGED" value="6f42c1" />
-    <option name="FILESTATUS_MODIFIED" value="5cc5" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5cc5" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5cc5" />
-    <option name="FILESTATUS_OBSOLETE" value="6a737d" />
-    <option name="FILESTATUS_RENAMED" value="7c7c" />
+    <option name="FILESTATUS_ADDED" value="629755" />
+    <option name="FILESTATUS_COPIED" value="629755" />
+    <option name="FILESTATUS_DELETED" value="6c6c6c" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_MERGED" value="9876aa" />
+    <option name="FILESTATUS_MODIFIED" value="6897bb" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="" />
-    <option name="FILESTATUS_SWITCHED" value="e36209" />
-    <option name="FILESTATUS_UNKNOWN" value="e36209" />
-    <option name="FILESTATUS_addedOutside" value="22863a" />
-    <option name="FILESTATUS_changelistConflict" value="d73a49" />
-    <option name="FILESTATUS_modifiedOutside" value="5cc5" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="FILESTATUS_UNKNOWN" value="d1675a" />
+    <option name="FILESTATUS_addedOutside" value="629755" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="282a36" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="INDENT_GUIDE" value="3c4049" />
@@ -2532,6 +2532,12 @@
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="c4b3a3" />
+      </value>
+    </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
+        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">
