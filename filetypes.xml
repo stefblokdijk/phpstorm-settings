@@ -5,8 +5,8 @@
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="stub" type="PHP" />
       <mapping pattern="installing-via-the-1-click-do-installer" type="PLAIN_TEXT" />
-      <mapping pattern="TailCommandTest" type="PLAIN_TEXT" />
       <mapping pattern="Reviewable" type="PLAIN_TEXT" />
+      <mapping pattern="pay-slip.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="forms" type="PLAIN_TEXT" />
       <mapping pattern="alternative-delimiter" type="PLAIN_TEXT" />
       <mapping pattern=".env-freekdev" type="PLAIN_TEXT" />
@@ -25,7 +25,9 @@
       <mapping pattern=".phpunit.result.cache" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
+      <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping pattern=".styleci" type="PLAIN_TEXT" />
+      <mapping pattern="publicSignature" type="PLAIN_TEXT" />
       <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="UserAddedToProjectEvent" type="PLAIN_TEXT" />
@@ -35,10 +37,9 @@
       <mapping pattern="DeleteTeamAction" type="PLAIN_TEXT" />
       <mapping pattern="MaintenancePeriodPolicy" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="publicSignature" type="PLAIN_TEXT" />
       <mapping pattern=".env-flare" type="PLAIN_TEXT" />
       <mapping pattern="invalidWelcomeLink" type="PLAIN_TEXT" />
-      <mapping pattern="dummy" type="PLAIN_TEXT" />
+      <mapping pattern="TailCommandTest" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
@@ -55,9 +56,10 @@
       <removed_mapping pattern="first-party-extensions.md" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="components" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="FuzzyFilter" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="BalieAuth" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="PathGenerator.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="BalieAuth" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ctp" approved="true" type="PHP" />
       <removed_mapping pattern="componentWithUnescapedVariable" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="AcceptsNameAndVendor" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sharing-error-occurrences" approved="true" type="PLAIN_TEXT" />
@@ -68,15 +70,14 @@
       <removed_mapping pattern="Exceptions" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="new BackupDisk" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="using-variables" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="ctp" approved="true" type="PHP" />
-      <removed_mapping pattern="disabledBecauseOverPlanLimit" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="PathGenerator.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="ForgeControntroller" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".php_cs" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping pattern="Concerns/CalculatesPrices" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="UserResource" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="namespacedView1" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="disabledBecauseOverPlanLimit" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="making-solutions-runnable" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
