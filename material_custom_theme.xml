@@ -5,9 +5,9 @@
     <option name="notificationsColor" value="282c34ff" />
     <option name="treeSelectionColor" value="3a3f4b80" />
     <option name="highlightColor" value="383d48ff" />
-    <option name="secondBorderColor" value="282c34ff" />
-    <option name="tableSelectedColor" value="383e49ff" />
-    <option name="contrastColor" value="1e2127ff" />
+    <option name="secondBorderColor" value="687487ff" />
+    <option name="tableSelectedColor" value="323741ff" />
+    <option name="contrastColor" value="4f5054ff" />
     <option name="disabledColor" value="6b727dff" />
     <option name="secondaryBackgroundColor" value="2f333dff" />
     <option name="buttonColor" value="3a3f4bff" />
@@ -15,6 +15,6 @@
     <option name="selectionBackgroundColor" value="4d515dff" />
     <option name="textColor" value="9da5b4ff" />
     <option name="foregroundColor" value="9da5b4ff" />
-    <option name="backgroundColor" value="21252bff" />
+    <option name="backgroundColor" value="282c34ff" />
   </component>
 </application>
