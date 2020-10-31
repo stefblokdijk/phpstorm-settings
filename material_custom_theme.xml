@@ -6,13 +6,13 @@
     <option name="treeSelectionColor" value="3a3f4b80" />
     <option name="highlightColor" value="383d48ff" />
     <option name="secondBorderColor" value="5d6879ff" />
-    <option name="tableSelectedColor" value="3a3f4bff" />
-    <option name="contrastColor" value="4f5054ff" />
+    <option name="tableSelectedColor" value="404550ff" />
+    <option name="contrastColor" value="717173ff" />
     <option name="disabledColor" value="6b727dff" />
     <option name="secondaryBackgroundColor" value="2f333dff" />
     <option name="buttonColor" value="3a3f4bff" />
-    <option name="selectionForegroundColor" value="e3e3e3ff" />
-    <option name="selectionBackgroundColor" value="4d515dff" />
+    <option name="selectionForegroundColor" value="9da5b4ff" />
+    <option name="selectionBackgroundColor" value="5e626eff" />
     <option name="textColor" value="9da5b4ff" />
     <option name="foregroundColor" value="9da5b4ff" />
     <option name="backgroundColor" value="282c34ff" />
