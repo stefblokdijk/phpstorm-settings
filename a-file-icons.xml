@@ -6,6 +6,7 @@
     <option name="isMonochromeIcons" value="true" />
     <option name="monochromeColor" value="9da5b4" />
     <option name="arrowsStyle" value="Darcula" />
+    <option name="accentColor" value="589df6" />
     <option name="themedColor" value="8c939c" />
   </component>
 </application>
