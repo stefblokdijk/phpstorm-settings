@@ -24,8 +24,8 @@
       <mapping pattern="DeleteTeamAction" type="PLAIN_TEXT" />
       <mapping pattern="publicKey" type="PLAIN_TEXT" />
       <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
-      <mapping pattern="bring-your-own-editor" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="bring-your-own-editor" type="PLAIN_TEXT" />
       <mapping pattern="UpdateProjectNotificationPreferenceRequest" type="PLAIN_TEXT" />
       <mapping pattern="UserAddedToProjectEvent" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
